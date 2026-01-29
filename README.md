@@ -103,14 +103,23 @@ Thème
 
 ## 🛠️ Technologies envisagées
 
-* Backend : Node.js / Express (ou autre framework à définir)
-* Base de données : PostgreSQL / MongoDB (à décider)
+* Backend : Node.js / Express 
+* Base de données : Mysql 
 * Format des données : JSON
 * Authentification : (pas encore définie)
 
 ---
 
 ## 🚧 État du projet
+
+
+Mise en place du projet tu peux faire 
+
+npm install 
+
+pour installer les elements besoins pour ce projet 
+
+
 
 🟡 **En cours de conception**
 
@@ -137,6 +146,7 @@ Thème
 Le projet est ouvert aux améliorations. Toute suggestion est la bienvenue.
 
 ---
+
 
 ## 📄 Licence
 
